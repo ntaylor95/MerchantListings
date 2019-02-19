@@ -1,0 +1,29 @@
+{
+  "name": "merchantlistings",
+  "version": "1.0.0",
+  "description": "Return merchants white listed and black listed for an account",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "joi": "^14.3.1",
+    "serverless": "^1.37.1"
+  },
+  "devDependencies": {
+    "serverless-offline": "^4.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntaylor95/MerchantListings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntaylor95/MerchantListings/issues"
+  },
+  "homepage": "https://github.com/ntaylor95/MerchantListings#readme"
+}
