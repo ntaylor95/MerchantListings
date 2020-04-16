@@ -4,7 +4,8 @@
   "description": "Return merchants white listed and black listed for an account",
   "main": "index.js",
   "directories": {
-    "test": "tests"
+    "test": "tests",
+    "start": "sls offline start"
   },
   "dependencies": {
     "joi": "^14.3.1",
